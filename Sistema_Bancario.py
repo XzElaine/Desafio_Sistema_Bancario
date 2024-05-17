@@ -1,14 +1,14 @@
 ## 1: Depósito
-# Deve ser possível depositar valores positivos
-# Todos os depósitos devem ser armazenados em uma variável e exibidos na opção extrato
+# Deve ser possível depositar valores positivos.
+# Todos os depósitos devem ser armazenados em uma variável e exibidos na opção extrato.
 
 ## 2: Saque
-# Permitir 3 saques diários no valor de R$500
-# Todos os saques devem ser armazenador em uma variável e exibidos na opção extrato
+# Permitir 3 saques diários no valor de R$500.
+# Todos os saques devem ser armazenados em uma variável e exibidos na opção extrato.
 
 ## 3: Extrato
-# Listar todos os depositos e saques
-# No fim da listagem exibir o SALDO ATUAL. (utilizar a formatação R$ xxxx,xx)
+# Listar todos os depositos e saques.
+# No fim da listagem exibir o saldo atual.
 
 menu = """
 ======================== MENU ========================
